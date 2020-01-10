@@ -2,10 +2,19 @@
   width: 100vw;
   height: 12%;
   background-color: lightblue;
-  font-style: italic;
   font-size: medium;
   padding: 3px;
 }
+
+#ids_are_bad {
+  font-family: monospace;
+} 
+
+#ids_are_bad a {
+  float: right;
+  font-size: large;
+}
+
 
 /* .row {
   display: flex;
