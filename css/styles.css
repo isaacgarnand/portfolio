@@ -1,20 +1,42 @@
 .topbar {
   width: 100vw;
-  height: 9%;
+  height: 12%;
   background-color: lightblue;
+  font-style: italic;
+  font-size: medium;
+  padding: 3px;
 }
 
-.container {
+.row {
+  display: flex;
+  justify-content: space-between;
+}
 
+.aboutme img {
+  float: left;
+  width: 200px;
+  height: auto;
 }
 
 .aboutme {
-  width: 100%;
-  height: 20vh;
-
+  width: 40%;
+  height: auto;
+  float: left;
 }
 
+
 .projectsection {
-  width: 100%;
-  height: 70vh;
+  width: 59%;
+  height: auto;
+  float: left;
+}
+
+@media screen and (max-width: 800px) { 
+  .aboutme img {
+    width: 75px; 
+    height: auto;
+  }
+  .aboutme .projectsection {   
+    width: 100%;
+  }
 }
