@@ -1,12 +1,12 @@
 # _Portfolio_
 
-#### _{A webpage portfolio of my github repositories}, {1/10/2020}_
+#### _A webpage portfolio of my github repositories, 1/10/2020_
 
-#### By _**{Isaac Garnand}**_
+#### By _**Isaac Garnand**_
 
 ## Description
 
-_{A webpage with bootstrap and user defined styling elements, featuring an about me section as well as a list of all GitHub repositories made by me in my first week at Epicodus}_
+_A webpage with bootstrap and user defined styling elements, featuring an about me section as well as a list of all GitHub repositories made by me in my first week at Epicodus_
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _{A webpage with bootstrap and user defined styling elements, featuring an about
 * _go to isaacgarnand.github.io/portfolio_
 ##### _or_ ######
 * _download the repository at www.github.com/isaacgarnand/portfolio_
-* _drag the files to your internet browser_
+* _open the files with your internet browser_
 
 ## Known Bugs
 
-_{no known bugs at this time}_
+_there are no known bugs at this time_
 
 ## Support and contact details
 
-_{contact me at isaac.garnand@gmail.com for support or inquiries}_
+_contact me at isaac.garnand@gmail.com for support or inquiries_
 
 ## Technologies Used
 
-_{Used bootstrap.css v3.4.1}_
+_Used bootstrap.css v3.4.1_
 
 ### License
 
-*{Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)}*
+*Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)*
 
 Copyright (c) 2020 **_Isaac Garnand_**
