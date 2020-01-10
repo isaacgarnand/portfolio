@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar {
+  width: 20%;
+  height: 100%;
+  background-color: gray;
+}
+
+.sidebar img {
+
+}
+
+.topbar {
+  width: 100%;
+  height: 9%;
+  background-color: lightblue;
+}
+
+.aboutme {
+  width: 100%;
+  height: 20vh;
+}
+
+.projectsection {
+  width: 100%;
+  height: 70vh;
+}
