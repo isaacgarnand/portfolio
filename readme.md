@@ -6,7 +6,7 @@
 
 ## Description
 
-_A webpage with bootstrap and user defined styling elements, featuring an about me section as well as a list of all GitHub repositories made by me in my first week at Epicodus_
+_A webpage with bootstrap and user defined styling elements, featuring an about me section as well as a list of all GitHub repositories made by me in my first week at Epicodus. Columns scale based on screen size to support mobile and tablet users._
 
 ## Setup/Installation Requirements
 
@@ -18,7 +18,7 @@ _A webpage with bootstrap and user defined styling elements, featuring an about 
 
 ## Known Bugs
 
-_there are no known bugs at this time_
+_text may be difficult to read in 4k res_
 
 ## Support and contact details
 

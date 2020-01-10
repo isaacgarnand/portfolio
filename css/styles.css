@@ -22,7 +22,7 @@
   margin: 5%;
 }
 .aboutme p {
-  text-indent: 10%;
+  text-indent: 7%;
 }
 
 .aboutme {
@@ -41,8 +41,10 @@
   .aboutme img {
     width: 75px; 
     height: auto;
+    margin: 2%;
   }
   .aboutme .projectsection {   
     width: 100%;
+    padding: 4%;
   }
 }
