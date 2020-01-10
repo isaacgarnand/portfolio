@@ -1,37 +1,35 @@
-# _{Application Name}_
+# _Portfolio_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{A webpage portfolio of my github repositories}, {1/10/2020}_
 
-#### By _**{List of contributors}**_
+#### By _**{Isaac Garnand}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{A webpage with bootstrap and user defined styling elements, featuring an about me section as well as a list of all GitHub repositories made by me in my first week at Epicodus}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Install an internet browser_
+* _go to isaacgarnand.github.io/portfolio_
+##### _or_ ######
+* _download the repository at www.github.com/isaacgarnand/portfolio_
+* _drag the files to your internet browser_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{no known bugs at this time}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{contact me at isaac.garnand@gmail.com for support or inquiries}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{Used bootstrap.css v3.4.1}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)}*
 
-Copyright (c) 2020 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Isaac Garnand_**
