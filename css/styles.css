@@ -7,10 +7,10 @@
   padding: 3px;
 }
 
-.row {
+/* .row {
   display: flex;
   justify-content: space-between;
-}
+} */
 
 .aboutme img {
   float: left;
@@ -23,7 +23,6 @@
   height: auto;
   float: left;
 }
-
 
 .projectsection {
   width: 59%;
