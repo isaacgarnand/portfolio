@@ -11,7 +11,7 @@ _A webpage with bootstrap and user defined styling elements, featuring an about 
 ## Setup/Installation Requirements
 
 * _Install an internet browser_
-* _go to [the project's gh-pages!](isaacgarnand.github.io/portfolio)_
+* go to [the project's gh-pages!](http://isaacgarnand.github.io/portfolio)
 ##### _or_ ######
 * _download the repository at www.github.com/isaacgarnand/portfolio_
 * _open the files with your internet browser_
